@@ -1,2 +1,2 @@
-# VarKeyword
-Java program to demonstrate var keyword
+# Var data type
+Java program to demonstrate var data type
